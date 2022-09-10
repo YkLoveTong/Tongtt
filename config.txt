@@ -11,7 +11,7 @@
 "app_secret": "ea0d2b393e2f6afdeb3355e43f4098b2",
 
 "template_id": "8XvAkmZioEmCWcLUmh3MfFcMUu19br5JTgXFcL3JY74",
-"user_id": ["oGapI6_mduhJILN81kdciE8BX-oI"],
+"user_id": ["oGapI6_mduhJILN81kdciE8BX-oI", "oGapI6x2_0A_ZcM4tnGW2PbjwYB4],
 #"user_id": ["oGapI6_mduhJILN81kdciE8BX-oI" , "oGapI6x2_0A_ZcM4tnGW2PbjwYB4"],
 
 "C_ShengFen": "香港",
