@@ -1,21 +1,30 @@
+##############################
+##
+##       作者：张澳旗
+##     微信：17600005204
+##   有偿代做、每天自动推送
+##
+##############################
+
 {
 "app_id": "wxd5a3b9d349b18278",
 "app_secret": "ea0d2b393e2f6afdeb3355e43f4098b2",
 
 "template_id": "8XvAkmZioEmCWcLUmh3MfFcMUu19br5JTgXFcL3JY74",
-"user_id": ["oGapI6x2_0A_ZcM4tnGW2PbjwYB4"],
-#"user_id": ["oGapI6x2_0A_ZcM4tnGW2PbjwYB4" , "oGapI6_mduhJILN81kdciE8BX-oI"],
+"user_id": ["oGapI6_mduhJILN81kdciE8BX-oI"],
+#"user_id": ["oGapI6_mduhJILN81kdciE8BX-oI" , "oGapI6x2_0A_ZcM4tnGW2PbjwYB4"],
 
 "C_ShengFen": "香港",
 "C_ChengShi": "香港",
 "S_XingZuo": "天蝎座",
 
 "S_Love": "2021-06-28",
-"birthday1": "2006-11-08",
+"birthday1: "2006-11-08",
 "birthday2": "2006-11-02",
 
-"C_String01": "有小宝的每天都幸福美满",
+"C_String01": "有小宝的每天都幸福美满哟",
 "C_String02": "我爱小宝，小宝爱我哦耶",
+"C_String03": "自由和你才是真正的远方",
 
 
 # 天气预报
@@ -27,7 +36,6 @@
 "API_ZAXY":"dbd6a2d69f08416ddef2bfbc094ba5e1",
 # 晚安心语
 "API_WAXY":"dbd6a2d69f08416ddef2bfbc094ba5e1",
-
 # 舔狗日记
 "API_TGRJ":"dbd6a2d69f08416ddef2bfbc094ba5e1",
 # 土味情话
